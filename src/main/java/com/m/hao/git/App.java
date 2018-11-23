@@ -12,5 +12,6 @@ public class App
     	System.out.println("right...");
         System.out.println( "Hello World!" );
         System.out.println("df2s15");
+        System.out.println("hello moto");
     }
 }
